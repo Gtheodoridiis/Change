@@ -8,6 +8,20 @@ All notable changes to this project will be documented in this file. See [standa
 ### Features
 
 * :memo: added this ([960bb6b](https://github.com/Gtheodoridiis/Change/commit/960bb6bbd74e4b6df7e2da0ea143bc8b4f10ad13))
+* :tada: Added James bond movie ([22a32a9](https://github.com/Gtheodoridiis/Change/commit/22a32a9b24271fe777090ed4ccd9b194804e69ae))
+* **new scope:** :fire: ([1aa72d5](https://github.com/Gtheodoridiis/Change/commit/1aa72d5cb4539fb0146a235a4a90d90452907b12))
+
+
+### Bug Fixes
+
+* :zap: This is a change in the file ([ff6b5d8](https://github.com/Gtheodoridiis/Change/commit/ff6b5d8a611d2da191babfe2a243ef7e977bfcb1))
+
+## 1.1.0 (2023-02-07)
+
+
+### Features
+
+* :memo: added this ([960bb6b](https://github.com/Gtheodoridiis/Change/commit/960bb6bbd74e4b6df7e2da0ea143bc8b4f10ad13))
 * **new scope:** :fire: ([1aa72d5](https://github.com/Gtheodoridiis/Change/commit/1aa72d5cb4539fb0146a235a4a90d90452907b12))
 
 
