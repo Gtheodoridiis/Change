@@ -1,3 +1,12 @@
+#  (2023-02-07)
+
+
+### Features
+
+* **new scope:** :fire: ([1aa72d5](https://github.com/Gtheodoridiis/Change/commit/1aa72d5cb4539fb0146a235a4a90d90452907b12))
+
+
+
 commit 9f3e4d1575a3e39372ec2ab414e1d00f96be54ee
 Author: theodoridisg <theodoridisg@intralot.com>
 Date:   Mon Feb 6 14:46:07 2023 +0200
