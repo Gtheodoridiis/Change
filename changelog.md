@@ -8,6 +8,21 @@
 
 ### Features
 
+* :memo: added this ([960bb6b](https://github.com/Gtheodoridiis/Change/commit/960bb6bbd74e4b6df7e2da0ea143bc8b4f10ad13))
+* **new scope:** :fire: ([1aa72d5](https://github.com/Gtheodoridiis/Change/commit/1aa72d5cb4539fb0146a235a4a90d90452907b12))
+
+
+
+#  (2023-02-07)
+
+
+### Bug Fixes
+
+* :zap: This is a change in the file ([ff6b5d8](https://github.com/Gtheodoridiis/Change/commit/ff6b5d8a611d2da191babfe2a243ef7e977bfcb1))
+
+
+### Features
+
 * **new scope:** :fire: ([1aa72d5](https://github.com/Gtheodoridiis/Change/commit/1aa72d5cb4539fb0146a235a4a90d90452907b12))
 
 
